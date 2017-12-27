@@ -1,1 +1,1 @@
-# This basic PHP login form
+# basic PHP login form
